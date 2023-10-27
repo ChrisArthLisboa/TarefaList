@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Sally",
+      "Tasks": {
+        "all": 0,
+        "done": 0,
+        "notDone": 0
+      },
+      "email": "exemplo@ex.exp",
+      "password": "1234"
+    },
+    {
+      "name": "John",
+      "Tasks": {
+        "all": 0,
+        "done": 0,
+        "notDone": 0
+      },
+      "email": "email.exemplo@gex.dot",
+      "password": "5678"
+    }
+  ]
+}
